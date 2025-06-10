@@ -1,0 +1,42 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*%
+%TF.CreationDate,2025-05-20T22:03:47-04:00*%
+%TF.ProjectId,Breakout-Flex-PCB-Testing-Stand,42726561-6b6f-4757-942d-466c65782d50,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-05-20 22:03:47*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10R,1.700000X1.700000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11O,1.700000X1.700000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,J7,1,Pin_1*%
+%TO.N,Net-(J1-1)*%
+X273100000Y-86300000D03*
+D11*
+%TO.P,J7,2,Pin_2*%
+%TO.N,Net-(J2-1)*%
+X273100000Y-83760000D03*
+%TO.P,J7,3,Pin_3*%
+%TO.N,Net-(J3-1)*%
+X273100000Y-81220000D03*
+%TO.P,J7,4,Pin_4*%
+%TO.N,Net-(J4-1)*%
+X273100000Y-78680000D03*
+%TO.P,J7,5,Pin_5*%
+%TO.N,Net-(J5-1)*%
+X273100000Y-76140000D03*
+%TO.P,J7,6,Pin_6*%
+%TO.N,Net-(J6-1)*%
+X273100000Y-73600000D03*
+%TD*%
+M02*
