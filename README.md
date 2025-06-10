@@ -19,4 +19,4 @@ The breakout board is used to breakout the 6 pin header on the back of the phone
 
 There is a testbench case to go with this, it is best printed in TPU or other flexible materials to ensure the spring loaded pins on the breakout board do not get bent or damaged when removing the phone from the case. To insert the PCB into the case there are three edges that overlap the cutout of the PCB slot, this is a simple method used for the time being to get simple testing done but will be modified for an actual test run of a case/outfit. 
 
-![image](./Development/Breakout%20Test%20Bench%20Case/HMD%20Fusion%20Tests%20v26.png "Testbench Case V1R1")Testbench Case V1R1
+![image](./Development/Breakout%20Test%20Bench%20Case/HMD%20Fusion%20Tests%20v26.png "Testbench Case Bottom Half V1R1")Testbench Case Bottom Half V1R1
